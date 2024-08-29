@@ -1,0 +1,16 @@
+# Entorno Virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos y directorios de compilación
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Archivos de configuración de IDEs
+.vscode/
